@@ -117,4 +117,4 @@ int main() {
 
 
 ## RESULT:
-	Hence, the simulation of RSA algorithm is successfully done.
+Hence, the simulation of RSA algorithm is successfully done.
